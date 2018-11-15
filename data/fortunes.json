@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "message": "The new Game Of Thrones book will never be finished.",
+        "lucky_number": 6166,
+        "spirit_animal": "Dragon"
+    },
+    {
+        "id": 2,
+        "message": "You will not win the lottery",
+        "lucky_number": 13,
+        "spirit_animal": "Frog"
+    },
+    {
+        "id": 3,
+        "message": "All your hair will fall out",
+        "lucky_number": 9,
+        "spirit_animal": "Magpie"
+    }
+]
